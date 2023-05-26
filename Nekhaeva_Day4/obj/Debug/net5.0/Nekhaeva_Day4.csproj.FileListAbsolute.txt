@@ -14,3 +14,19 @@ C:\Users\Студент\source\repos\варисова\Nekhaeva_Day4\obj\Debug\ne
 C:\Users\Студент\source\repos\варисова\Nekhaeva_Day4\obj\Debug\net5.0\Nekhaeva_Day4.pdb
 C:\Users\Студент\source\repos\варисова\Nekhaeva_Day4\obj\Debug\net5.0\Nekhaeva_Day4.genruntimeconfig.cache
 C:\Users\Студент\source\repos\варисова\Nekhaeva_Day4\obj\Debug\net5.0\ref\Nekhaeva_Day4.dll
+E:\Курсовая работа\Nekhaeva_Day4\bin\Debug\net5.0\Nekhaeva_Day4.exe
+E:\Курсовая работа\Nekhaeva_Day4\bin\Debug\net5.0\Nekhaeva_Day4.deps.json
+E:\Курсовая работа\Nekhaeva_Day4\bin\Debug\net5.0\Nekhaeva_Day4.runtimeconfig.json
+E:\Курсовая работа\Nekhaeva_Day4\bin\Debug\net5.0\Nekhaeva_Day4.runtimeconfig.dev.json
+E:\Курсовая работа\Nekhaeva_Day4\bin\Debug\net5.0\Nekhaeva_Day4.dll
+E:\Курсовая работа\Nekhaeva_Day4\bin\Debug\net5.0\ref\Nekhaeva_Day4.dll
+E:\Курсовая работа\Nekhaeva_Day4\bin\Debug\net5.0\Nekhaeva_Day4.pdb
+E:\Курсовая работа\Nekhaeva_Day4\obj\Debug\net5.0\Nekhaeva_Day4.csproj.AssemblyReference.cache
+E:\Курсовая работа\Nekhaeva_Day4\obj\Debug\net5.0\Nekhaeva_Day4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Курсовая работа\Nekhaeva_Day4\obj\Debug\net5.0\Nekhaeva_Day4.AssemblyInfoInputs.cache
+E:\Курсовая работа\Nekhaeva_Day4\obj\Debug\net5.0\Nekhaeva_Day4.AssemblyInfo.cs
+E:\Курсовая работа\Nekhaeva_Day4\obj\Debug\net5.0\Nekhaeva_Day4.csproj.CoreCompileInputs.cache
+E:\Курсовая работа\Nekhaeva_Day4\obj\Debug\net5.0\Nekhaeva_Day4.dll
+E:\Курсовая работа\Nekhaeva_Day4\obj\Debug\net5.0\ref\Nekhaeva_Day4.dll
+E:\Курсовая работа\Nekhaeva_Day4\obj\Debug\net5.0\Nekhaeva_Day4.pdb
+E:\Курсовая работа\Nekhaeva_Day4\obj\Debug\net5.0\Nekhaeva_Day4.genruntimeconfig.cache

@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Студент\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Студент\\source\\repos\\варисова\\Nekhaeva_Day4\\Nekhaeva_Day4.csproj",
+      "projectUniqueName": "E:\\Курсовая работа\\Nekhaeva_Day4\\Nekhaeva_Day4.csproj",
       "projectName": "Nekhaeva_Day4",
-      "projectPath": "C:\\Users\\Студент\\source\\repos\\варисова\\Nekhaeva_Day4\\Nekhaeva_Day4.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Студент\\source\\repos\\варисова\\Nekhaeva_Day4\\obj\\",
+      "projectPath": "E:\\Курсовая работа\\Nekhaeva_Day4\\Nekhaeva_Day4.csproj",
+      "packagesPath": "C:\\Users\\Студент\\.nuget\\packages\\",
+      "outputPath": "E:\\Курсовая работа\\Nekhaeva_Day4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Студент\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
