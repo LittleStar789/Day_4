@@ -1,0 +1,16 @@
+E:\Курсовая работа\Nech\bin\Debug\net5.0\Nech.exe
+E:\Курсовая работа\Nech\bin\Debug\net5.0\Nech.deps.json
+E:\Курсовая работа\Nech\bin\Debug\net5.0\Nech.runtimeconfig.json
+E:\Курсовая работа\Nech\bin\Debug\net5.0\Nech.runtimeconfig.dev.json
+E:\Курсовая работа\Nech\bin\Debug\net5.0\Nech.dll
+E:\Курсовая работа\Nech\bin\Debug\net5.0\Nech.pdb
+E:\Курсовая работа\Nech\obj\Debug\net5.0\Nech.csproj.AssemblyReference.cache
+E:\Курсовая работа\Nech\obj\Debug\net5.0\Nech.GeneratedMSBuildEditorConfig.editorconfig
+E:\Курсовая работа\Nech\obj\Debug\net5.0\Nech.AssemblyInfoInputs.cache
+E:\Курсовая работа\Nech\obj\Debug\net5.0\Nech.AssemblyInfo.cs
+E:\Курсовая работа\Nech\obj\Debug\net5.0\Nech.csproj.CoreCompileInputs.cache
+E:\Курсовая работа\Nech\obj\Debug\net5.0\Nech.dll
+E:\Курсовая работа\Nech\obj\Debug\net5.0\refint\Nech.dll
+E:\Курсовая работа\Nech\obj\Debug\net5.0\Nech.pdb
+E:\Курсовая работа\Nech\obj\Debug\net5.0\Nech.genruntimeconfig.cache
+E:\Курсовая работа\Nech\obj\Debug\net5.0\ref\Nech.dll
