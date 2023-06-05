@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Курсовая работа\\Nech\\Nech.csproj": {}
+    "E:\\Курсовая работа\\Nech_1\\Nech.csproj": {}
   },
   "projects": {
-    "E:\\Курсовая работа\\Nech\\Nech.csproj": {
+    "E:\\Курсовая работа\\Nech_1\\Nech.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Курсовая работа\\Nech\\Nech.csproj",
+        "projectUniqueName": "E:\\Курсовая работа\\Nech_1\\Nech.csproj",
         "projectName": "Nech",
-        "projectPath": "E:\\Курсовая работа\\Nech\\Nech.csproj",
+        "projectPath": "E:\\Курсовая работа\\Nech_1\\Nech.csproj",
         "packagesPath": "C:\\Users\\Студент\\.nuget\\packages\\",
-        "outputPath": "E:\\Курсовая работа\\Nech\\obj\\",
+        "outputPath": "E:\\Курсовая работа\\Nech_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Студент\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

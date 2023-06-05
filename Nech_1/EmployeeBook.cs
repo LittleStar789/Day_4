@@ -60,6 +60,15 @@ namespace Nech
                    case 11:
                     NewEmployee();
                        break;
+                   case 12:
+                    DeletedEmployee();
+                       break;
+                   case 13:
+                    ChangeEmployee();
+                       break;
+                   case 14:
+                    GetInfoInDeps();
+                       break;
                    default:
                     Console.WriteLine("Введите правильное значение.");
                     break;
@@ -525,6 +534,58 @@ namespace Nech
                 foreach(Employee r in Sotrudnik)
                 {
                     Console.WriteLine($"{r.Id} | {r.Fio} | {r.Department} | {r.Salary}");
+                }
+            }
+
+            void DeletedEmployee() // 12 мeтод. Удаление сотрудника по ID.
+            {
+                Console.WriteLine("Введите ID сотрудника, которого хотите удалить: ");
+                int id = Convert.ToInt32(Console.ReadLine());
+                foreach(Employee r in Sotrudnik)
+                {
+                    for (int i = 0; i < Sotrudnik.Length; i++)
+                    {
+                        if (r.Id == id)
+                        {
+                            Console.WriteLine($"Сотрудник {r.Fio} успешно удален");
+                            Sotrudnik = Sotrudnik.Where((source, index) => index != i).ToArray();
+                            return;
+                        }
+                    }
+                }
+                Console.WriteLine($"Сотрудника с id {id} не найдено.");
+            }
+
+            void ChangeEmployee() // 13 метод. Изменение информации о сотруднике по его ID.
+            {
+                Console.WriteLine("Введите ID сотрудника, которого хотите изменить: ");
+                int id = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Выберите отдел, в котором будет работать этот сотрудник(от 1 до 5)");
+                int nemDep = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Введите размер зп, которую будет получать этот сотрудник ");
+                int newSal = Convert.ToInt32(Console.ReadLine());
+                foreach (Employee r in Sotrudnik)
+                {
+                    if (r.Id == id)
+                    {
+                        r.Department = nemDep;
+                        r.Salary = newSal;
+                        break;
+                    }
+                }
+                Console.WriteLine("Список сотрудников после изменений: ");
+                foreach (Employee r in Sotrudnik)
+                {
+                    Console.WriteLine($"Номер сотрудника: {r.Id} | ФИО: {r.Fio} | Отдел: {r.Department} | Зарплата: {r.Salary}");
+                }
+            }
+
+            void GetInfoInDeps() // 14 метод. Выводит сотрудников по отделам.
+            {
+                var departmens = Sotrudnik.OrderBy(e => e.Department);
+                foreach (var r in departmens)
+                {
+                    Console.WriteLine($"Сотрудник из отдела {r.Department} | ФИО: {r.Fio}");
                 }
             }
         }
